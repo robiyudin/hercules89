@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #e2edff;
+}
+
+#services {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 3.5rem;
+}
+
+.col-md-4 :hover img {
+  transform: scale(1.1);
+}
+
+.banner img {
+  width: 250px;
+  padding-bottom: 0.5rem;
+}
+
+.container svg {
+  border-radius: 5px;
+}
